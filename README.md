@@ -3,7 +3,7 @@
 ### Front End with Bootstrap & Jinja2 template
 ![](screenshots/landing.png)
 
-### Database schema
+### PostgreSQL Database schema: 
 #### LISTING
 - id: INT
 - realtor: INT (FOREIGN KEY [realtor])
